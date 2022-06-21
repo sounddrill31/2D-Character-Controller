@@ -11,6 +11,6 @@ Currently the Controller features:
 - Events for setting up animation
 - 2D Physics
 
-To learn how to use it check out our video on 2D Movement which can be found on our [YouTube Channel](http://youtube.com/brackeys).
+To learn how to use it check out our video on 2D Movement which can be found on Brackeys' [YouTube Channel](http://youtube.com/brackeys).
 
 The script is based on the one provided by Unity as part of their Standard Assets.
